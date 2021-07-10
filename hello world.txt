@@ -1,2 +1,5 @@
 it is all new
+<<<<<<< HEAD
 продолжаем разработку кода без новой фичи
+add new feature "good bye"
+>>>>>>> feature/goodbye
