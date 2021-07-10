@@ -1,1 +1,1 @@
-print(hello world)all shits
+it is all new
